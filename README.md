@@ -8,6 +8,7 @@ SVHN is a real-world image dataset for developing machine learning and object re
 The images come in two formats as follows.
 
 Format 1 : Original images with character level bounding boxes.
+
 Format 2 : MNIST-like 32-by-32 images centered around a single character (many of the images do contain some distractors at the sides).
 
 # Reference
